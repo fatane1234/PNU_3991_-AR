@@ -2,7 +2,7 @@
 - [PNU_3991_AR](https://)
 - [Resume](https:///) 
 - [SOP](https://.github.io/SOP/)
-- [GitHub](https://github.com/)
+- [GitHub](https://github.co
 -----------------
 
 1. G-U01
