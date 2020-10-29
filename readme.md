@@ -1,4 +1,4 @@
-## عذرا حسینی
+## فاطمه رشیدی اصل
 - [PNU_3991_AR](https://github.com/ozrahosseini/PNU-3991-AR)
 - [Resume](https://ozrahosseini.github.io/) 
 - [SOP](https://.github.io/SOP/)
