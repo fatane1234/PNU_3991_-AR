@@ -1,8 +1,8 @@
 ## فاطمه رشیدی اصل
-- [PNU_3991_AR](https://github.com/ozrahosseini/PNU-3991-AR)
-- [Resume](https://ozrahosseini.github.io/) 
+- [PNU_3991_AR](https://)
+- [Resume](https:///) 
 - [SOP](https://.github.io/SOP/)
-- [GitHub](https://github.com/ozrahosseini/)
+- [GitHub](https://github.com/)
 -----------------
 
 1. G-U01
