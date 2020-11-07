@@ -3,8 +3,8 @@
 ## فاطمه رشیدی اصل
 - [PNU_3991_AR](https://github.com/fatemehrashidi/PNU_3991_AR)
 - [Resume](https://fatemehrashidi.github.io/) 
-- [SOP] (https://fatemehrashidi.github.io/SOP/)
-- [GitHub] ( https://github.com/fatemehrashidi/ )
+- [SOP](https://fatemehrashidi.github.io/SOP/)
+- [GitHub]( https://github.com/fatemehrashidi/)
 -----------------
 
 1. G-U01
