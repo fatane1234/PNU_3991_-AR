@@ -6,6 +6,7 @@
 - [SOP](https://fatemehrashidi.github.io/SOP/)
 - [GitHub]( https://github.com/fatemehrashidi/)
 - [Js license](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/JavaScript_certificate.pdf)
+- [jlord patchwork](jlord.png)
 -----------------
 
 1. G-U01
