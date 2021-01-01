@@ -17,6 +17,7 @@
     1. [_RPM-3ا](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/35_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D8%B8%D9%81%D8%B1%D9%8A)    
     1. [_RPM-42_](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/42_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%87%D8%A7%D8%B4%D9%85%20%D8%B2%D8%A7%D8%AF%D9%87)    
 
+http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822 The method and research of this source is on page 16
 
 ## دروس کارشناسی
 -------------- روش پژوهش و ارائه
