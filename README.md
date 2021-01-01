@@ -7,9 +7,10 @@
 - [GitHub]( https://github.com/fatemehrashidi/)
 - [Js license](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/JavaScript_certificate.pdf)
 - [jlord patchwork](jlord.png)
-- [ Choose a good engineering dissertation ]
- ( https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/Dissertation_Thesis_Yuxiao_Zhao0417.pdf)
-  http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822 The method and research of this source is on page 16
+- [Choose a good engineering dissertation]
+ (https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/Dissertation_Thesis_Yuxiao_Zhao0417.pdf)
+  http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822 
+  The method and research of this source is on page 16
 
 
 
