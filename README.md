@@ -12,7 +12,8 @@
 - [latex](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/latex.pdf)  
 ## latex tex
 - [latex tex67](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/67.tex)
-- [latex tex68](
+- [latex tex68](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/68.tex)
+- [latex tex69](
 
 
 
