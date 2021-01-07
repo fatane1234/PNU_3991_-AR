@@ -11,7 +11,8 @@
   http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822  The method and research of this source is on page 16
 - [latex](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/latex.pdf)  
 ## latex tex
-- 
+- [latex tex67](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/67.tex)
+- [latex tex68](
 
 
 
