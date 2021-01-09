@@ -14,6 +14,8 @@
 - [latex tex67](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/67.tex)
 - [latex tex68](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/68.tex)
 - [latex tex69](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/69.tex)
+- [Oral presentation](https://drive.google.com/file/d/1-ZpffRS72jOpeaHzItOAxK2sDEZmjhxY/view?usp=drivesdk)
+
 
 
 
