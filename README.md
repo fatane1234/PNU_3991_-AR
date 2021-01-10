@@ -40,11 +40,12 @@
 
 <table style="width:100%">
   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
+    <th > 18-20 </th>
+    <th > 16-18 </th>
+    <th > 14-16 </th>
+    <th> 12-14 </th>
+    <th> 10-12 </th>
+    <th> 8_10 </th >
     <th>روز</th>
   </tr>
   <tr>
@@ -52,7 +53,8 @@
     <th ></th>
     <th ></th>
     <th></th>
-    <th></th>
+    <th> شبکه های کامپیوتری </th>
+    < th > </th >
     <th>شنبه</th>
   </tr>
    <tr>
