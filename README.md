@@ -22,6 +22,7 @@
 ارزیابی ها
 ## بخش عمومی
 - [رزومه وانگیزنامه](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+
 -[خلاصه شرح بخش عمومی](
 
 
