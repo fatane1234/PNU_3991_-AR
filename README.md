@@ -27,7 +27,9 @@
 
 ## بخش دروس کارشناسی
 
-- [خلاصه ارزیابی درس روش پژوهش وارائه](
+- [خلاصه ارزیابی درس روش پژوهش وارائه](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+
+
 
 
 
