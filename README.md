@@ -10,6 +10,7 @@
 
 ## معرفی دروس مشابه در دانشگاه های دیگر
 - [ در کالیفرنیا PEPPERDINE دانشگاه]( https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
+- [دانشگاه نیوکاسل انگلستان](https://libguides.newcastle.edu.au/researchmethods)
 ## جستجوی منابع دیگر
 - [choose a good engineering dissertation](https://github.com/fatemehrashidi/PNU_3991_-AR/blob/main/Dissertation_Thesis_Yuxiao_Zhao0417.pdf)
   http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822   The method and research of this source is on page 16
